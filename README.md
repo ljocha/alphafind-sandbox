@@ -2,6 +2,10 @@
 
 Experimental work on top of AlphaFind, done standalone to make things a bit easier.
 
+Binder should work in general, you can spawn it directly at:
+- [Mybinder](https://mybinder.org/v2/gh/ljocha/alphafind-sandbox/HEAD) -- public but rather limited resources and lifetime
+- [CERIT-SC](https://binderhub.cloud.e-infra.cz/v2/gh/ljocha/alphafind-sandbox/HEAD) if you have an [eInfra-CZ](e-infra.cz) account
+
 [Implementation of the "bag of domain" search](multi-domain-search.ipynb):
 - split query structure to TED domains,
 - lookup targets with at least one matching domain
