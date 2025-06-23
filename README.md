@@ -8,7 +8,7 @@ Binder should work in general, you can spawn it directly at:
 
 ## Implementation of the "bag of domain" search
 
-All in [multi-domain-search.ipynb]:
+All in [multi-domain-search.ipynb](multi-domain-search.ipynb):
 - split query structure to TED domains,
 - lookup targets with at least one matching domain
 - compute "meta TM score" based on the number of matched domains and their overall RMSD
