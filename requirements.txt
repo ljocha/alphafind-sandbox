@@ -1,3 +1,5 @@
 jupyter
 nbstripout
 pandas
+mdtraj
+nglview
